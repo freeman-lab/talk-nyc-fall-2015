@@ -1,2 +1,7 @@
-# talk-nyc-fall-2015
-Talk at JupyterDay in Fall 2015
+# Talk
+
+## JupyterDay in NYC, October 24th, 2015
+
+For JupyterDay! At Impact Hub
+
+View live at [thefreemanlab.com](http://thefreemanlab.com/talk-nyc-fall-2015)
